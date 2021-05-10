@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "build",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "paths": {
+    }
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
