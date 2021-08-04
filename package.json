@@ -17,6 +17,9 @@
     "type": "git",
     "url": "git@github.com:ringcentral/easy-pkce.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "buffer": "^6.0.3",
     "randombytes": "^2.1.0",
