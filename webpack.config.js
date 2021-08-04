@@ -7,7 +7,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: 'main.js',
     library: {
-      name: "easy-pkce",
+      name: "@ringcentral/easy-pkce",
       type: "umd",
     },
   },
