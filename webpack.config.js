@@ -9,8 +9,8 @@ module.exports = {
     library: {
       name: "@ringcentral/easy-pkce",
       type: "umd",
-      globalObject: 'this',
     },
+    globalObject: 'this',
   },
   resolve: {
     extensions: ['.ts', '.js'],
