@@ -9,6 +9,7 @@ module.exports = {
     library: {
       name: "@ringcentral/easy-pkce",
       type: "umd",
+      globalObject: 'this',
     },
   },
   resolve: {
