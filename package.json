@@ -5,6 +5,7 @@
   "author": "RingCentral",
   "description": "A small typescript lib for generating code verifier and code exchange for the proof key of code exchange.",
   "main": "dist/main.js",
+  "types": "dist/index.d.ts",
   "bugs": {
     "url": "https://github.com/ringcentral/easy-pkce/issues"
   },
