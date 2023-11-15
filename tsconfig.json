@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
-    "outDir": "build",
+    "outDir": "dist",
     "rootDir": "src",
     "esModuleInterop": true,
+    "declaration": true,
     "paths": {
     }
   },
